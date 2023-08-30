@@ -1,0 +1,15 @@
+[project]
+name = "delivery-app"
+version = "0.1.0"
+description = "delivery app testing actions github - python3.11"
+authors = [
+    {name = "Carlos L. <krlosaren@gmail.com>", email = "krlosaren@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
